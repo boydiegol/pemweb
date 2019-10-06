@@ -1,0 +1,167 @@
+body
+{
+	background-color: #D3D3D3;
+	font-family: times new roman;
+}
+
+.container
+{
+	display: grid;
+	grid-template-columns: 33% 33% auto;
+	font-size: 18px;
+	text-align: center;
+	background-color: rgba(204,0,0,0.8);
+	padding-bottom: 8px;
+}
+
+.kata .nama
+{
+	letter-spacing: 2px;
+}
+
+.kontak img
+{
+	margin-top: 15px;
+}
+
+.sosmed
+{
+	margin-top: 5px;
+}
+
+.box
+{
+	height: 400px;
+	margin-top: 70px;
+	background-color: white;
+	box-shadow: 2px 2px 2px 2px gray; 
+}
+
+.box .img
+{
+	margin-left: 40px;
+	height: 400px;
+	box-shadow: 1px 1px 1px 1px gray; 
+}
+
+.box .intro
+{
+	margin-top: 20px;
+	font-family: palatino;
+	
+}
+
+.intro .nama
+{
+	color: maroon;
+	font-size: 28px;
+	font-family: arial;
+}
+
+.intro .jurusan{
+	color: gray;
+}
+
+.sosmed img
+{
+	margin-top: 8px;
+	margin-right: 8px;
+}
+
+.sosial
+{
+	margin-top: 2px;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	text-align: center;
+	background-color: rgba(204,0,0,0.8);
+}
+
+.sosial a
+{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.box h3
+{
+	margin-top: 50px;
+	color: maroon;
+	text-align: center;
+	font-size: 30px;
+	font-family: palatino;
+}
+
+.box .kotak
+{
+	display: block;
+	margin-left: 100px;
+
+}
+
+.box .kotak .kotak1
+{
+	font-family: palatino;
+	box-shadow: 2px 2px 2px 2px;
+	height: 210px;
+}
+
+.box .kotak .kotak1 .pita
+{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	background-color: rgba(204,0,0,0.8);
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.box .kotak .kotak1 p
+{
+	margin-left: 8px;
+}
+
+.matkul h2
+{
+	margin-top: 60px;
+	margin-bottom: 40px;
+	color: maroon;
+	text-align: center;
+	font-size: 30px;
+	font-family: palatino;
+}
+
+.tengah
+{
+	border-left: 1px black solid; 
+	height: 280px; 
+	width: 0px; 
+	display: block; 
+	margin-left: 69px;
+}
+
+.judul
+{
+	background-color: rgba(204,0,0,0.8);
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: white;
+}
+
+.kiri
+{
+	background-color: white;
+	box-shadow: 2px 2px 2px 2px;
+}
+
+.kanan
+{
+	background-color: white;
+	box-shadow: 2px 2px 2px 2px;
+	margin-top: 80px;
+}
+
+h3	
+{
+	text-align: center;
+}
